@@ -1,0 +1,461 @@
+[
+ {
+  "code": 551,
+  "comments": {
+   "freeFormComment": ""
+  },
+  "earthquake": {
+   "domesticTsunami": "None",
+   "foreignTsunami": "Unknown",
+   "hypocenter": {
+    "depth": 0,
+    "latitude": 35.3,
+    "longitude": 139,
+    "magnitude": 2.8,
+    "name": "静岡県東部"
+   },
+   "maxScale": 10,
+   "time": "2026/11/16 13:28:00"
+  },
+  "id": "6afa873571973906912545f1",
+  "issue": {
+   "correct": "None",
+   "source": "気象庁",
+   "time": "2026/11/16 13:31:48",
+   "type": "DetailScale"
+  },
+  "points": [
+   {
+    "addr": "小田原市久野",
+    "isArea": false,
+    "pref": "神奈川県",
+    "scale": 10
+   },
+   {
+    "addr": "小田原市荻窪",
+    "isArea": false,
+    "pref": "神奈川県",
+    "scale": 10
+   },
+   {
+    "addr": "南足柄市関本",
+    "isArea": false,
+    "pref": "神奈川県",
+    "scale": 10
+   },
+   {
+    "addr": "松田町松田惣領",
+    "isArea": false,
+    "pref": "神奈川県",
+    "scale": 10
+   },
+   {
+    "addr": "山北町山北",
+    "isArea": false,
+    "pref": "神奈川県",
+    "scale": 10
+   },
+   {
+    "addr": "箱根町湯本",
+    "isArea": false,
+    "pref": "神奈川県",
+    "scale": 10
+   },
+   {
+    "addr": "御殿場市竈",
+    "isArea": false,
+    "pref": "静岡県",
+    "scale": 10
+   },
+   {
+    "addr": "小山町藤曲",
+    "isArea": false,
+    "pref": "静岡県",
+    "scale": 10
+   },
+   {
+    "addr": "小山町須走",
+    "isArea": false,
+    "pref": "静岡県",
+    "scale": 10
+   }
+  ],
+  "time": "2026/11/16 13:31:49.257",
+  "timestamp": {
+   "convert": "2026/11/16 13:31:49.251",
+   "register": "2026/11/16 13:31:49.257"
+  },
+  "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+  "ver": "20231023"
+ },
+ {
+  "code": 551,
+  "comments": {
+   "freeFormComment": ""
+  },
+  "earthquake": {
+   "domesticTsunami": "None",
+   "foreignTsunami": "Unknown",
+   "hypocenter": {
+    "depth": 280,
+    "latitude": 37.3,
+    "longitude": 137,
+    "magnitude": 5.1,
+    "name": "石川県能登地方"
+   },
+   "maxScale": 10,
+   "time": "2026/11/16 13:24:00"
+  },
+  "id": "6afa868f71973906912545f0",
+  "issue": {
+   "correct": "None",
+   "source": "気象庁",
+   "time": "2026/11/16 13:29:02",
+   "type": "DetailScale"
+  },
+  "points": [
+   {
+    "addr": "八戸市湊町",
+    "isArea": false,
+    "pref": "青森県",
+    "scale": 10
+   },
+   {
+    "addr": "青森南部町苫米地",
+    "isArea": false,
+    "pref": "青森県",
+    "scale": 10
+   },
+   {
+    "addr": "階上町道仏",
+    "isArea": false,
+    "pref": "青森県",
+    "scale": 10
+   },
+   {
+    "addr": "宮古市五月町",
+    "isArea": false,
+    "pref": "岩手県",
+    "scale": 10
+   },
+   {
+    "addr": "宮古市田老",
+    "isArea": false,
+    "pref": "岩手県",
+    "scale": 10
+   },
+   {
+    "addr": "山田町大沢",
+    "isArea": false,
+    "pref": "岩手県",
+    "scale": 10
+   },
+   {
+    "addr": "大船渡市大船渡町",
+    "isArea": false,
+    "pref": "岩手県",
+    "scale": 10
+   },
+   {
+    "addr": "陸前高田市高田町",
+    "isArea": false,
+    "pref": "岩手県",
+    "scale": 10
+   },
+   {
+    "addr": "釜石市中妻町",
+    "isArea": false,
+    "pref": "岩手県",
+    "scale": 10
+   },
+   {
+    "addr": "住田町世田米",
+    "isArea": false,
+    "pref": "岩手県",
+    "scale": 10
+   },
+   {
+    "addr": "一関市千厩町",
+    "isArea": false,
+    "pref": "岩手県",
+    "scale": 10
+   },
+   {
+    "addr": "一関市室根町",
+    "isArea": false,
+    "pref": "岩手県",
+    "scale": 10
+   },
+   {
+    "addr": "気仙沼市赤岩",
+    "isArea": false,
+    "pref": "宮城県",
+    "scale": 10
+   },
+   {
+    "addr": "気仙沼市笹が陣",
+    "isArea": false,
+    "pref": "宮城県",
+    "scale": 10
+   },
+   {
+    "addr": "宮城美里町木間塚",
+    "isArea": false,
+    "pref": "宮城県",
+    "scale": 10
+   },
+   {
+    "addr": "岩沼市桜",
+    "isArea": false,
+    "pref": "宮城県",
+    "scale": 10
+   },
+   {
+    "addr": "丸森町鳥屋",
+    "isArea": false,
+    "pref": "宮城県",
+    "scale": 10
+   },
+   {
+    "addr": "石巻市桃生町",
+    "isArea": false,
+    "pref": "宮城県",
+    "scale": 10
+   },
+   {
+    "addr": "古殿町松川新桑原",
+    "isArea": false,
+    "pref": "福島県",
+    "scale": 10
+   },
+   {
+    "addr": "いわき市小名浜",
+    "isArea": false,
+    "pref": "福島県",
+    "scale": 10
+   },
+   {
+    "addr": "いわき市三和町",
+    "isArea": false,
+    "pref": "福島県",
+    "scale": 10
+   },
+   {
+    "addr": "南相馬市原町区高見町",
+    "isArea": false,
+    "pref": "福島県",
+    "scale": 10
+   },
+   {
+    "addr": "福島広野町下北迫大谷地原",
+    "isArea": false,
+    "pref": "福島県",
+    "scale": 10
+   },
+   {
+    "addr": "福島広野町下北迫苗代替",
+    "isArea": false,
+    "pref": "福島県",
+    "scale": 10
+   },
+   {
+    "addr": "楢葉町北田",
+    "isArea": false,
+    "pref": "福島県",
+    "scale": 10
+   },
+   {
+    "addr": "大熊町大川原",
+    "isArea": false,
+    "pref": "福島県",
+    "scale": 10
+   },
+   {
+    "addr": "双葉町長塚",
+    "isArea": false,
+    "pref": "福島県",
+    "scale": 10
+   },
+   {
+    "addr": "浪江町幾世橋",
+    "isArea": false,
+    "pref": "福島県",
+    "scale": 10
+   },
+   {
+    "addr": "日立市助川小学校",
+    "isArea": false,
+    "pref": "茨城県",
+    "scale": 10
+   },
+   {
+    "addr": "ひたちなか市南神敷台",
+    "isArea": false,
+    "pref": "茨城県",
+    "scale": 10
+   },
+   {
+    "addr": "ひたちなか市東石川",
+    "isArea": false,
+    "pref": "茨城県",
+    "scale": 10
+   },
+   {
+    "addr": "東京目黒区中央町",
+    "isArea": false,
+    "pref": "東京都",
+    "scale": 10
+   }
+  ],
+  "time": "2026/11/16 13:29:03.635",
+  "timestamp": {
+   "convert": "2026/11/16 13:29:03.597",
+   "register": "2026/11/16 13:29:03.635"
+  },
+  "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+  "ver": "20231023"
+ },
+ {
+  "code": 551,
+  "comments": {
+   "freeFormComment": ""
+  },
+  "earthquake": {
+   "domesticTsunami": "None",
+   "foreignTsunami": "Unknown",
+   "hypocenter": {
+    "depth": 40,
+    "latitude": 35,
+    "longitude": 137.7,
+    "magnitude": 3.4,
+    "name": "愛知県東部"
+   },
+   "maxScale": 10,
+   "time": "2026/11/16 06:08:00"
+  },
+  "id": "6afa1fd771973906912545ef",
+  "issue": {
+   "correct": "None",
+   "source": "気象庁",
+   "time": "2026/11/16 06:10:46",
+   "type": "DetailScale"
+  },
+  "points": [
+   {
+    "addr": "売木村役場",
+    "isArea": false,
+    "pref": "長野県",
+    "scale": 10
+   },
+   {
+    "addr": "恵那市上矢作町",
+    "isArea": false,
+    "pref": "岐阜県",
+    "scale": 10
+   },
+   {
+    "addr": "浜松天竜区佐久間町",
+    "isArea": false,
+    "pref": "静岡県",
+    "scale": 10
+   },
+   {
+    "addr": "浜松天竜区龍山町",
+    "isArea": false,
+    "pref": "静岡県",
+    "scale": 10
+   },
+   {
+    "addr": "新城市乗本",
+    "isArea": false,
+    "pref": "愛知県",
+    "scale": 10
+   },
+   {
+    "addr": "新城市作手高里松風呂",
+    "isArea": false,
+    "pref": "愛知県",
+    "scale": 10
+   },
+   {
+    "addr": "新城市大野",
+    "isArea": false,
+    "pref": "愛知県",
+    "scale": 10
+   },
+   {
+    "addr": "新城市東入船",
+    "isArea": false,
+    "pref": "愛知県",
+    "scale": 10
+   },
+   {
+    "addr": "瀬戸市追分町",
+    "isArea": false,
+    "pref": "愛知県",
+    "scale": 10
+   },
+   {
+    "addr": "豊田市小坂本町",
+    "isArea": false,
+    "pref": "愛知県",
+    "scale": 10
+   },
+   {
+    "addr": "豊田市小坂町",
+    "isArea": false,
+    "pref": "愛知県",
+    "scale": 10
+   },
+   {
+    "addr": "豊田市大沼町",
+    "isArea": false,
+    "pref": "愛知県",
+    "scale": 10
+   },
+   {
+    "addr": "豊田市坂上町",
+    "isArea": false,
+    "pref": "愛知県",
+    "scale": 10
+   },
+   {
+    "addr": "豊田市保見町",
+    "isArea": false,
+    "pref": "愛知県",
+    "scale": 10
+   },
+   {
+    "addr": "豊田市長興寺",
+    "isArea": false,
+    "pref": "愛知県",
+    "scale": 10
+   },
+   {
+    "addr": "日進市蟹甲町",
+    "isArea": false,
+    "pref": "愛知県",
+    "scale": 10
+   },
+   {
+    "addr": "愛知みよし市三好町",
+    "isArea": false,
+    "pref": "愛知県",
+    "scale": 10
+   },
+   {
+    "addr": "東郷町春木",
+    "isArea": false,
+    "pref": "愛知県",
+    "scale": 10
+   }
+  ],
+  "time": "2026/11/16 06:10:47.056",
+  "timestamp": {
+   "convert": "2026/11/16 06:10:47.049",
+   "register": "2026/11/16 06:10:47.056"
+  },
+  "user_agent": "jmaxml-seis-parser-go, relay, register-api",
+  "ver": "20231023"
+ }
+]

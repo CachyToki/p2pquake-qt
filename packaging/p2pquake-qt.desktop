@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=P2P Quake
+Name[ja]=P2P地震情報
+GenericName=Earthquake Information Viewer
+GenericName[ja]=地震情報ビューア
+Comment=Earthquake, tsunami and EEW information from the P2PQuake API
+Comment[ja]=P2P地震情報 API から地震情報・津波予報・緊急地震速報を受信して表示します
+Exec=p2pquake-qt
+Icon=p2pquake-qt
+Terminal=false
+Categories=Qt;Utility;Science;
